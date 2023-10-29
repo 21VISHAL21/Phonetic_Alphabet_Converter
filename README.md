@@ -26,16 +26,6 @@ python nato_phonetic_converter.py
 
 5. The script will display the phonetic code words for each letter in the input word.
 
-## Example
-
-Here's an example of how to use the script:
-
-```shell
-python nato_phonetic_converter.py
-Enter a word: GitHub
-['GOLF', 'UNIFORM', 'BRAVO', 'BRAVO', 'ECHO', 'KILO']
-```
-
 ## Customize the Data
 
 You can customize the data in the `nato_phonetic_alphabet.csv` file to include different alphabets or code words. Make sure the CSV file structure remains consistent with two columns: 'letter' and 'code'.
