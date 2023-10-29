@@ -30,10 +30,6 @@ python nato_phonetic_converter.py
 
 You can customize the data in the `nato_phonetic_alphabet.csv` file to include different alphabets or code words. Make sure the CSV file structure remains consistent with two columns: 'letter' and 'code'.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This script uses the pandas library for data manipulation.
